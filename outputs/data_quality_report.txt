@@ -1,0 +1,21 @@
+EDUPRO DATA PREPARATION REPORT
+==============================
+Users rows: 3,000
+Teachers rows: 60
+Courses rows: 60
+Transactions rows after cleaning: 10,000
+Integrated transaction rows: 10,000
+Transaction date range: 2025-01-01 00:00:00 to 2025-12-30 00:00:00
+Missing cells by source sheet before cleaning: {'Users': 0, 'Teachers': 0, 'Courses': 0, 'Transactions': 0}
+Exact duplicate rows found before removal: {'Users': 0, 'Teachers': 0, 'Courses': 0, 'Transactions': 0}
+Rows removed due to missing essential transaction fields: 0
+Transactions referencing unknown users: 0
+Transactions referencing unknown courses: 0
+Transactions referencing unknown teachers: 0
+Zero-amount transactions retained: 6403
+Negative transaction amounts: 0
+Total revenue (sum of transaction Amount): 911,323.47
+Monthly course panel rows: 720
+
+Important: zero-amount transactions were retained because the workbook includes free courses.
+Forecasting must use chronological train/test splits to avoid temporal leakage.
