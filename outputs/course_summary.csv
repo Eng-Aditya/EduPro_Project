@@ -1,0 +1,61 @@
+CourseID,CourseName,CourseCategory,Demand,Revenue,UniqueLearners
+CR00021,Data Analysis with Python,Data Science,196,0.0,196
+CR00058,Social Media Strategy,Digital Marketing,194,0.0,194
+CR00025,Statistical Analysis,Data Science,192,57517.44,192
+CR00048,AI Ethics,Artificial Intelligence,186,0.0,186
+CR00023,Machine Learning Fundamentals,Data Science,185,0.0,185
+CR00042,Investment Strategies,Finance,183,0.0,183
+CR00043,Corporate Finance,Finance,182,0.0,182
+CR00010,3D Modeling,Design,180,0.0,180
+CR00035,Cyber Threat Intelligence,Cybersecurity,179,0.0,179
+CR00007,UI/UX Design,Design,178,0.0,178
+CR00054,Backend Development with Node.js,Web Development,178,0.0,178
+CR00055,Full-Stack Web Development,Web Development,178,10202.960000000001,178
+CR00036,Agile Project Management,Project Management,177,0.0,177
+CR00019,Content Marketing,Marketing,177,0.0,177
+CR00022,Data Visualization,Data Science,177,0.0,177
+CR00040,Leadership in Projects,Project Management,174,57070.26,174
+CR00050,Computer Vision,Artificial Intelligence,174,85416.59999999999,174
+CR00003,C++ for Beginners,Programming,173,0.0,173
+CR00012,Business Strategy,Business,173,84410.16,173
+CR00045,Financial Modeling,Finance,172,0.0,172
+CR00026,Intro to Machine Learning,Machine Learning,172,0.0,172
+CR00051,HTML & CSS,Web Development,171,6479.1900000000005,171
+CR00014,Sales Mastery,Business,171,0.0,171
+CR00028,Deep Learning,Machine Learning,171,133.38,171
+CR00013,Finance for Startups,Business,170,0.0,170
+CR00030,Reinforcement Learning,Machine Learning,169,0.0,169
+CR00015,Leadership Essentials,Business,168,47888.4,168
+CR00039,Project Planning,Project Management,167,57900.57,167
+CR00033,Cybersecurity Fundamentals,Cybersecurity,167,0.0,167
+CR00024,Big Data Analytics,Data Science,166,19534.88,166
+CR00047,Natural Language Processing,Artificial Intelligence,166,14871.94,166
+CR00041,Financial Accounting,Finance,166,8940.76,166
+CR00005,Full Stack Development,Programming,166,0.0,166
+CR00060,Content Creation,Digital Marketing,165,0.0,165
+CR00001,Python Basics,Programming,164,77453.92,164
+CR00049,Deep Learning,Artificial Intelligence,163,67728.13,163
+CR00032,Ethical Hacking,Cybersecurity,163,0.0,163
+CR00053,React for Beginners,Web Development,163,0.0,163
+CR00018,Social Media Marketing,Marketing,163,0.0,163
+CR00044,Personal Finance,Finance,161,19165.440000000002,161
+CR00059,Affiliate Marketing,Digital Marketing,161,0.0,161
+CR00031,Network Security,Cybersecurity,160,0.0,160
+CR00008,Photoshop Mastery,Design,158,0.0,158
+CR00017,SEO Mastery,Marketing,158,0.0,158
+CR00038,Risk Management,Project Management,158,54132.380000000005,158
+CR00006,Graphic Design Basics,Design,156,43113.72,156
+CR00020,Email Marketing,Marketing,155,0.0,155
+CR00029,Natural Language Processing,Machine Learning,155,0.0,155
+CR00009,Web Design Fundamentals,Design,155,0.0,155
+CR00004,Advanced Python,Programming,154,0.0,154
+CR00052,JavaScript Mastery,Web Development,154,0.0,154
+CR00016,Digital Marketing,Marketing,153,0.0,153
+CR00037,Scrum Essentials,Project Management,153,0.0,153
+CR00027,Neural Networks,Machine Learning,152,0.0,152
+CR00011,Entrepreneurship 101,Business,151,49229.02,151
+CR00034,Data Encryption,Cybersecurity,150,59139.0,150
+CR00002,Java Programming,Programming,149,0.0,149
+CR00056,Google Ads Mastery,Digital Marketing,148,31433.719999999998,148
+CR00046,AI for Beginners,Artificial Intelligence,140,34734.0,140
+CR00057,SEO for E-commerce,Digital Marketing,140,24827.600000000002,140

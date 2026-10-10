@@ -1,0 +1,181 @@
+ForecastMonth,CourseID,CourseName,PredictedDemand,PredictedRevenue
+2026-01-01,CR00001,Python Basics,13,6228.12
+2026-02-01,CR00001,Python Basics,12,5810.22
+2026-03-01,CR00001,Python Basics,13,6935.44
+2026-01-01,CR00002,Java Programming,14,0.0
+2026-02-01,CR00002,Java Programming,14,0.0
+2026-03-01,CR00002,Java Programming,14,0.0
+2026-01-01,CR00003,C++ for Beginners,14,0.08
+2026-02-01,CR00003,C++ for Beginners,14,0.0
+2026-03-01,CR00003,C++ for Beginners,15,0.0
+2026-01-01,CR00004,Advanced Python,13,0.24
+2026-02-01,CR00004,Advanced Python,14,0.27
+2026-03-01,CR00004,Advanced Python,14,0.34
+2026-01-01,CR00005,Full Stack Development,14,0.0
+2026-02-01,CR00005,Full Stack Development,14,0.0
+2026-03-01,CR00005,Full Stack Development,14,0.0
+2026-01-01,CR00006,Graphic Design Basics,14,3925.33
+2026-02-01,CR00006,Graphic Design Basics,14,3909.66
+2026-03-01,CR00006,Graphic Design Basics,14,3910.9
+2026-01-01,CR00007,UI/UX Design,15,0.1
+2026-02-01,CR00007,UI/UX Design,15,0.04
+2026-03-01,CR00007,UI/UX Design,15,0.1
+2026-01-01,CR00008,Photoshop Mastery,14,0.0
+2026-02-01,CR00008,Photoshop Mastery,14,0.0
+2026-03-01,CR00008,Photoshop Mastery,14,0.0
+2026-01-01,CR00009,Web Design Fundamentals,14,0.0
+2026-02-01,CR00009,Web Design Fundamentals,14,0.0
+2026-03-01,CR00009,Web Design Fundamentals,15,0.0
+2026-01-01,CR00010,3D Modeling,14,0.0
+2026-02-01,CR00010,3D Modeling,14,0.08
+2026-03-01,CR00010,3D Modeling,15,0.0
+2026-01-01,CR00011,Entrepreneurship 101,13,4488.0
+2026-02-01,CR00011,Entrepreneurship 101,14,4663.19
+2026-03-01,CR00011,Entrepreneurship 101,13,4303.1
+2026-01-01,CR00012,Business Strategy,12,6299.81
+2026-02-01,CR00012,Business Strategy,14,7223.04
+2026-03-01,CR00012,Business Strategy,12,5425.37
+2026-01-01,CR00013,Finance for Startups,14,0.0
+2026-02-01,CR00013,Finance for Startups,14,0.0
+2026-03-01,CR00013,Finance for Startups,14,0.0
+2026-01-01,CR00014,Sales Mastery,13,0.0
+2026-02-01,CR00014,Sales Mastery,14,0.0
+2026-03-01,CR00014,Sales Mastery,14,0.0
+2026-01-01,CR00015,Leadership Essentials,14,4285.43
+2026-02-01,CR00015,Leadership Essentials,14,4393.23
+2026-03-01,CR00015,Leadership Essentials,14,4297.91
+2026-01-01,CR00016,Digital Marketing,13,0.0
+2026-02-01,CR00016,Digital Marketing,14,0.0
+2026-03-01,CR00016,Digital Marketing,14,0.0
+2026-01-01,CR00017,SEO Mastery,14,0.0
+2026-02-01,CR00017,SEO Mastery,14,0.0
+2026-03-01,CR00017,SEO Mastery,14,0.0
+2026-01-01,CR00018,Social Media Marketing,14,0.0
+2026-02-01,CR00018,Social Media Marketing,14,0.0
+2026-03-01,CR00018,Social Media Marketing,14,0.0
+2026-01-01,CR00019,Content Marketing,14,0.0
+2026-02-01,CR00019,Content Marketing,15,0.0
+2026-03-01,CR00019,Content Marketing,14,0.0
+2026-01-01,CR00020,Email Marketing,14,0.0
+2026-02-01,CR00020,Email Marketing,14,0.0
+2026-03-01,CR00020,Email Marketing,14,0.0
+2026-01-01,CR00021,Data Analysis with Python,16,0.05
+2026-02-01,CR00021,Data Analysis with Python,15,0.04
+2026-03-01,CR00021,Data Analysis with Python,16,0.04
+2026-01-01,CR00022,Data Visualization,14,0.0
+2026-02-01,CR00022,Data Visualization,14,0.0
+2026-03-01,CR00022,Data Visualization,14,0.0
+2026-01-01,CR00023,Machine Learning Fundamentals,15,0.0
+2026-02-01,CR00023,Machine Learning Fundamentals,15,0.0
+2026-03-01,CR00023,Machine Learning Fundamentals,15,0.05
+2026-01-01,CR00024,Big Data Analytics,15,1734.36
+2026-02-01,CR00024,Big Data Analytics,14,1635.93
+2026-03-01,CR00024,Big Data Analytics,15,1756.85
+2026-01-01,CR00025,Statistical Analysis,16,4943.34
+2026-02-01,CR00025,Statistical Analysis,15,4868.85
+2026-03-01,CR00025,Statistical Analysis,16,4836.71
+2026-01-01,CR00026,Intro to Machine Learning,14,0.0
+2026-02-01,CR00026,Intro to Machine Learning,14,0.0
+2026-03-01,CR00026,Intro to Machine Learning,14,0.0
+2026-01-01,CR00027,Neural Networks,14,0.0
+2026-02-01,CR00027,Neural Networks,14,0.0
+2026-03-01,CR00027,Neural Networks,14,0.0
+2026-01-01,CR00028,Deep Learning,14,10.35
+2026-02-01,CR00028,Deep Learning,14,10.42
+2026-03-01,CR00028,Deep Learning,14,10.42
+2026-01-01,CR00029,Natural Language Processing,14,0.0
+2026-02-01,CR00029,Natural Language Processing,15,0.0
+2026-03-01,CR00029,Natural Language Processing,14,0.0
+2026-01-01,CR00030,Reinforcement Learning,13,0.05
+2026-02-01,CR00030,Reinforcement Learning,14,0.08
+2026-03-01,CR00030,Reinforcement Learning,14,0.08
+2026-01-01,CR00031,Network Security,14,0.0
+2026-02-01,CR00031,Network Security,14,0.0
+2026-03-01,CR00031,Network Security,14,0.0
+2026-01-01,CR00032,Ethical Hacking,14,0.0
+2026-02-01,CR00032,Ethical Hacking,14,0.0
+2026-03-01,CR00032,Ethical Hacking,14,0.0
+2026-01-01,CR00033,Cybersecurity Fundamentals,15,0.0
+2026-02-01,CR00033,Cybersecurity Fundamentals,15,0.0
+2026-03-01,CR00033,Cybersecurity Fundamentals,15,0.0
+2026-01-01,CR00034,Data Encryption,13,4595.17
+2026-02-01,CR00034,Data Encryption,12,4626.1
+2026-03-01,CR00034,Data Encryption,13,4812.87
+2026-01-01,CR00035,Cyber Threat Intelligence,14,0.0
+2026-02-01,CR00035,Cyber Threat Intelligence,14,0.0
+2026-03-01,CR00035,Cyber Threat Intelligence,14,0.0
+2026-01-01,CR00036,Agile Project Management,15,0.0
+2026-02-01,CR00036,Agile Project Management,15,0.0
+2026-03-01,CR00036,Agile Project Management,15,0.0
+2026-01-01,CR00037,Scrum Essentials,13,0.0
+2026-02-01,CR00037,Scrum Essentials,14,0.0
+2026-03-01,CR00037,Scrum Essentials,14,0.0
+2026-01-01,CR00038,Risk Management,14,4931.37
+2026-02-01,CR00038,Risk Management,15,4925.58
+2026-03-01,CR00038,Risk Management,15,4993.98
+2026-01-01,CR00039,Project Planning,13,4574.83
+2026-02-01,CR00039,Project Planning,14,4629.44
+2026-03-01,CR00039,Project Planning,14,4587.77
+2026-01-01,CR00040,Leadership in Projects,13,4383.64
+2026-02-01,CR00040,Leadership in Projects,13,4459.56
+2026-03-01,CR00040,Leadership in Projects,14,4617.1
+2026-01-01,CR00041,Financial Accounting,14,834.55
+2026-02-01,CR00041,Financial Accounting,14,888.44
+2026-03-01,CR00041,Financial Accounting,14,919.48
+2026-01-01,CR00042,Investment Strategies,14,0.0
+2026-02-01,CR00042,Investment Strategies,14,0.0
+2026-03-01,CR00042,Investment Strategies,15,0.0
+2026-01-01,CR00043,Corporate Finance,14,0.09
+2026-02-01,CR00043,Corporate Finance,14,0.0
+2026-03-01,CR00043,Corporate Finance,14,0.0
+2026-01-01,CR00044,Personal Finance,13,1576.39
+2026-02-01,CR00044,Personal Finance,13,1691.74
+2026-03-01,CR00044,Personal Finance,13,1689.49
+2026-01-01,CR00045,Financial Modeling,14,0.0
+2026-02-01,CR00045,Financial Modeling,14,0.0
+2026-03-01,CR00045,Financial Modeling,14,0.0
+2026-01-01,CR00046,AI for Beginners,13,2710.27
+2026-02-01,CR00046,AI for Beginners,13,2722.7
+2026-03-01,CR00046,AI for Beginners,13,2726.76
+2026-01-01,CR00047,Natural Language Processing,13,1162.1
+2026-02-01,CR00047,Natural Language Processing,13,1162.1
+2026-03-01,CR00047,Natural Language Processing,14,1140.79
+2026-01-01,CR00048,AI Ethics,14,0.05
+2026-02-01,CR00048,AI Ethics,14,0.0
+2026-03-01,CR00048,AI Ethics,14,0.0
+2026-01-01,CR00049,Deep Learning,11,4537.78
+2026-02-01,CR00049,Deep Learning,13,4645.17
+2026-03-01,CR00049,Deep Learning,13,4794.67
+2026-01-01,CR00050,Computer Vision,12,5972.17
+2026-02-01,CR00050,Computer Vision,12,6226.65
+2026-03-01,CR00050,Computer Vision,12,6177.78
+2026-01-01,CR00051,HTML & CSS,14,545.47
+2026-02-01,CR00051,HTML & CSS,14,516.81
+2026-03-01,CR00051,HTML & CSS,14,515.28
+2026-01-01,CR00052,JavaScript Mastery,14,0.0
+2026-02-01,CR00052,JavaScript Mastery,15,0.0
+2026-03-01,CR00052,JavaScript Mastery,14,0.0
+2026-01-01,CR00053,React for Beginners,14,0.0
+2026-02-01,CR00053,React for Beginners,14,0.0
+2026-03-01,CR00053,React for Beginners,14,0.0
+2026-01-01,CR00054,Backend Development with Node.js,15,0.1
+2026-02-01,CR00054,Backend Development with Node.js,15,0.1
+2026-03-01,CR00054,Backend Development with Node.js,15,0.18
+2026-01-01,CR00055,Full-Stack Web Development,14,961.57
+2026-02-01,CR00055,Full-Stack Web Development,15,838.06
+2026-03-01,CR00055,Full-Stack Web Development,14,806.79
+2026-01-01,CR00056,Google Ads Mastery,13,2693.99
+2026-02-01,CR00056,Google Ads Mastery,14,2733.03
+2026-03-01,CR00056,Google Ads Mastery,14,2726.19
+2026-01-01,CR00057,SEO for E-commerce,14,2379.64
+2026-02-01,CR00057,SEO for E-commerce,15,2608.53
+2026-03-01,CR00057,SEO for E-commerce,15,2613.82
+2026-01-01,CR00058,Social Media Strategy,14,0.08
+2026-02-01,CR00058,Social Media Strategy,15,0.0
+2026-03-01,CR00058,Social Media Strategy,16,0.0
+2026-01-01,CR00059,Affiliate Marketing,14,0.0
+2026-02-01,CR00059,Affiliate Marketing,14,0.0
+2026-03-01,CR00059,Affiliate Marketing,14,0.0
+2026-01-01,CR00060,Content Creation,13,0.05
+2026-02-01,CR00060,Content Creation,14,0.0
+2026-03-01,CR00060,Content Creation,14,0.0

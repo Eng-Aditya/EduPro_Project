@@ -7,3 +7,9 @@ __pycache__/
 data/*.xlsx
 models/*.joblib
 outputs/*.csv
+!outputs/course_summary.csv
+!outputs/category_summary.csv
+!outputs/monthly_overall_summary.csv
+!outputs/courses_clean.csv
+!outputs/model_evaluation.csv
+!outputs/future_forecasts.csv
