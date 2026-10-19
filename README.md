@@ -3,7 +3,7 @@
 ## 🔗 Live Application & GitHub Repository
 
 - **🚀 Live Application:** [EduPro Analytics Dashboard](https://edupro-analytics.streamlit.app/)
-- **💻 GitHub Repository:** [EduPro_Project_Step1](https://github.com/Eng-Aditya/EduPro_Project_Step1)
+- **💻 GitHub Repository:** [[EduPro_Project](https://github.com/Eng-Aditya/EduPro_Project)
 
 Explore the deployed application to view course demand analysis, revenue forecasting, and data-driven insights. Visit the GitHub repository to access the project source code and implementation details.
 
